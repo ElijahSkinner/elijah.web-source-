@@ -1,0 +1,4 @@
+[submodule "DavskDotNet/public"]
+	path = DavskDotNet/public
+	url = git@github.com:ElijahSkinner/elijah.davsk.net.git
+	branch = master
