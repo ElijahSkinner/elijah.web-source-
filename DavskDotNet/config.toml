@@ -197,7 +197,7 @@ canonifyurls = true
   [[params.sharingOptions]]
     name = "Facebook"
     icon = "fa-facebook-official"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+    url = "https://www.facebook.com/elijah.skinner.9"
 
   [[params.sharingOptions]]
     name = "Twitter"
