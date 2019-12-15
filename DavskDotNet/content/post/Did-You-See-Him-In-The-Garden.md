@@ -21,4 +21,4 @@ Your browser does not support the audio element.
 </audio> 
 
 <!--more-->
-<object width="600" height="800" data="https://res.cloudinary.com/elijahskinner/image/upload/v1554406656/Did_You_See_Him_In_The_Garden_s.pdf"></object> 
+<object width="600" height="800" data="https://res.cloudinary.com/elijahskinner/image/upload/v1554406656/Did_You_See_Him_In_The_Garden_.pdf"></object> 

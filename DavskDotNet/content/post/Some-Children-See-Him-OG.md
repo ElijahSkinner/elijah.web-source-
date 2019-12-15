@@ -6,7 +6,7 @@ categories:
 - Folk
 tags: 
 - TTBB
-- 
+- Mens Choir
 keywords:
 - tech
 thumbnailImagePosition: left
